@@ -1,0 +1,1 @@
+aplikacja będzie formularzem w ktorym bedzie trzeba podac imie,nazwisko, wiek, płeć, i jakiś opis o sobie.
